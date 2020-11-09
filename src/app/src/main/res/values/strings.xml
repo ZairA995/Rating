@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Rating</string>
+    <string name="editMessage">Введите данные для поиска</string>
+    <string name="button_send">OK</string>
+</resources>
